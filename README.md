@@ -6,13 +6,14 @@ para tomar deciciones, validar cosas como contraseñas y usuarios tambien para h
 ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
 Para evitar errores en el codigo y que funcione de manera correcta.
 
-=============================================================================
 
-Enunciados.
 
-Enunciado 1: Clasificacion de edad
+#Enunciados.
+
+##Enunciado 1: Clasificacion de edad
 Utilice if-else porque puede evaluar los rangos de edad 
-    
+
+```csharp
         Console.WriteLine("Ingrese la edad de la persona:");
         int edad = Convert.ToInt32(Console.ReadLine());
 
@@ -23,38 +24,36 @@ Utilice if-else porque puede evaluar los rangos de edad
         else if (edad >= 18 && edad <= 59) 
         Console.WriteLine("La categoria es adulto");
         else Console.WriteLine("La categoria es adulto mayor");
+```
+  
+###Enunciado 2: Dia de la semana
+Utilice switch, al ser un programa de selección y no de rango
+es mas facil hacerlo de esta manera y evito hacer muchos else-if
 
-=============================================================================
+```csharp
+Console.WriteLine("Ingrese un número del 1 al 7:");
+int numdias = Convert.ToInt32(Console.ReadLine());
+string dia = "";
 
-Enunciado 2: Dia de la semana
-Utilice switch, al ser un programa de selección y no de rango es mas facil hacerlo de esta manera y evito hacer muchos else-if
-
-
-Console.WriteLine("Ingrese un numero del 1 al 7");
-        int numdias = Convert.ToInt32(Console.ReadLine());
-string dia;
-switch (numdias)
+switch (numdias) 
 {
-        case 1: dia = "Lunes"; break;
-        case 2: dia = "Martes"; break;
-            case 3: dia = "Miercoles"; break;
-            case 4: dia = "Jueves"; break;
-            case 5: dia = "Viernes"; break;
-            case 6: dia = "Sabado"; break;
-            case 7: dia = "Domingo"; break;
-            default: dia = "Numero invalido"; break;
-
+    case 1: dia = "Lunes"; break;
+    case 2: dia = "Martes"; break;
+    case 3: dia = "Miércoles"; break;
+    case 4: dia = "Jueves"; break;
+    case 5: dia = "Viernes"; break;
+    case 6: dia = "Sábado"; break;
+    case 7: dia = "Domingo"; break;
+    default: dia = "Número inválido"; break;
 }
-        Console.WriteLine($"El dia que corresponde al numero es: {dia}");
 
+Console.WriteLine($"El día que corresponde al número es: {dia}");
+```
 
-
-=============================================================================
-
-Enunciado 3: Verificacion de acceso
+####Enunciado 3: Verificacion de acceso
 Utilice if-else porque se debe evaluar diferentes condiciones de autentificación
 
-
+```csharp
         string usuario = "Deivid";
         string contra = "123";
         Console.WriteLine("Ingrese su usuario");
@@ -76,8 +75,9 @@ Utilice if-else porque se debe evaluar diferentes condiciones de autentificació
                 Console.WriteLine("Contraseña incorrecta");
 
             }
-}
+            }
         else
         {
             Console.WriteLine("Usuario no registrado");
         }
+```
