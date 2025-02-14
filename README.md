@@ -11,7 +11,7 @@ Para evitar errores en el codigo y que funcione de manera correcta.
 Enunciados.
 
 Enunciado 1: Clasificacion de edad
-Utilice if-else 
+Utilice if-else porque puede evaluar los rangos de edad 
 
 using System;
 
@@ -36,7 +36,7 @@ class Program
 =============================================================================
 
 Enunciado 2: Dia de la semana
-Utilice switch
+Utilice switch, al ser un programa de selección y no de rango es mas facil hacerlo de esta manera y evito hacer muchos else-if
 
 using System;
 class Program
@@ -65,7 +65,7 @@ switch (numdias)
 =============================================================================
 
 Enunciado 3: Verificacion de acceso
-Utilice if-else
+Utilice if-else porque se debe evaluar diferentes condiciones de autentificación
 
 using System;
 using System.Timers;
