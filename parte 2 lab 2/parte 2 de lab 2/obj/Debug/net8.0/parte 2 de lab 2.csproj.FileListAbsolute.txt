@@ -1,0 +1,14 @@
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\bin\Debug\net8.0\parte 2 de lab 2.exe
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\bin\Debug\net8.0\parte 2 de lab 2.deps.json
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\bin\Debug\net8.0\parte 2 de lab 2.runtimeconfig.json
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\bin\Debug\net8.0\parte 2 de lab 2.dll
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\bin\Debug\net8.0\parte 2 de lab 2.pdb
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.dll
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\refint\parte 2 de lab 2.dll
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.pdb
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\parte 2 de lab 2.genruntimeconfig.cache
+C:\Users\joseg\OneDrive\Escritorio\Lab 2 progra 1\Lab 2\parte 2 de lab 2\parte 2 de lab 2\obj\Debug\net8.0\ref\parte 2 de lab 2.dll
