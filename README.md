@@ -12,13 +12,7 @@ Enunciados.
 
 Enunciado 1: Clasificacion de edad
 Utilice if-else porque puede evaluar los rangos de edad 
-
-using System;
-
-class Program
-{
-    static void Main()
-    {
+    
         Console.WriteLine("Ingrese la edad de la persona:");
         int edad = Convert.ToInt32(Console.ReadLine());
 
@@ -30,19 +24,12 @@ class Program
         Console.WriteLine("La categoria es adulto");
         else Console.WriteLine("La categoria es adulto mayor");
 
-    }
-}
-
 =============================================================================
 
 Enunciado 2: Dia de la semana
 Utilice switch, al ser un programa de selección y no de rango es mas facil hacerlo de esta manera y evito hacer muchos else-if
 
-using System;
-class Program
-{
-    static void Main()
-{ 
+
 Console.WriteLine("Ingrese un numero del 1 al 7");
         int numdias = Convert.ToInt32(Console.ReadLine());
 string dia;
@@ -59,20 +46,15 @@ switch (numdias)
 
 }
         Console.WriteLine($"El dia que corresponde al numero es: {dia}");
-}
-}
+
+
 
 =============================================================================
 
 Enunciado 3: Verificacion de acceso
 Utilice if-else porque se debe evaluar diferentes condiciones de autentificación
 
-using System;
-using System.Timers;
-class Program
-{
-    static void Main()
-    {
+
         string usuario = "Deivid";
         string contra = "123";
         Console.WriteLine("Ingrese su usuario");
@@ -99,5 +81,3 @@ class Program
         {
             Console.WriteLine("Usuario no registrado");
         }
-    }
-}
